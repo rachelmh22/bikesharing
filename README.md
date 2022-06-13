@@ -46,3 +46,6 @@ The purpose of this project is to use Tableau to create visualizations to presen
 
 
 ## Summary
+
+## Tableau Story- New York Citi Bike
+[link to dashboard](https://public.tableau.com/views/bikesharingchallenge_16550782724440/NYCCitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
