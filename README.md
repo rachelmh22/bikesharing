@@ -47,5 +47,11 @@ The purpose of this project is to use Tableau to create visualizations to presen
 
 ## Summary
 
-## Tableau Story- New York Citi Bike
+According to the visualizations created, we can see the bike sharing program is utilized in densely populated areas like Manhattan. Additionally, males are more likely to subscribe and use a ride sharing program. Based on the data, we can implement a ride sharing program by initially starting in more populated areas and offering trials to users that may prefer to commute by bike during the mornings and evenings since this is the most popular times that the bikes are utilized.
+
+Two additional visualizations to create:
+- Trip duration based on birth year
+- Mapping trips with start and end station names
+
+### Tableau Story- New York Citi Bike
 [New York Citi Bike Story link](https://public.tableau.com/views/bikesharingchallenge_16550782724440/NYCCitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
